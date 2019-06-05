@@ -6,7 +6,7 @@ public class OutReturndetails1Model {
 
     @ExcelField(title = "产品类别", order = 1)
     private String productCategory;
-
+    // SKU
     @ExcelField(title = "SKU", order = 1)
     private String SKU;
     // 采购员
